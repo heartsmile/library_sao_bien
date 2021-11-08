@@ -1,5 +1,5 @@
 <?php // Silence 
 //is diamon
-//them cmt de merge
+//1111 - conflict
 //123
 // them nhanh moi
