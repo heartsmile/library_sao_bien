@@ -1,2 +1,2 @@
-<?php // Silence is silver
+<?php // Silence is diamon
 //them cmt de merge
