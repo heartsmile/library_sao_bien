@@ -1,2 +1,4 @@
-<?php // Silence is diamon
+<?php // Silence 
+//is diamon
 //them cmt de merge
+//123
